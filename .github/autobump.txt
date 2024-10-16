@@ -382,6 +382,7 @@ chainsaw
 chamber
 changie
 chaoskube
+charm-tools
 charmcraft
 chars
 chart-testing
