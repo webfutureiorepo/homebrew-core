@@ -307,6 +307,7 @@ cadical
 caf
 cahute
 caire
+cake
 calc
 calceph
 calcurse
@@ -356,6 +357,7 @@ cdebug
 cdk
 cdk8s
 cdogs-sdl
+cdsclient
 cdxgen
 cekit
 censys
@@ -1455,6 +1457,7 @@ kubescape
 kubeseal
 kubeshark
 kubespy
+kubetail
 kubevela
 kubevious
 kubevpn
@@ -1704,6 +1707,7 @@ lmdb
 lmod
 lnav
 lndir
+localai
 localstack
 locust
 log4cxx
@@ -2163,6 +2167,7 @@ percona-xtrabackup
 perl
 perltidy
 peru
+pferd
 pfetch-rs
 pg_cron
 pg_partman
@@ -2778,6 +2783,7 @@ testkube
 testscript
 testssl
 tetra
+tex-fmt
 texinfo
 texlab
 texmath
